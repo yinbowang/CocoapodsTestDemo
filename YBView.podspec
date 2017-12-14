@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name         = 'YBView'
-s.version      = '1.0'
+s.version      = '1.2'
 s.summary      = 'An easy way to use YBView'
 s.homepage     = 'https://github.com/yinbowang/CocoapodsTestDemo'
 s.license      = 'MIT'
