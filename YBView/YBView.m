@@ -16,6 +16,7 @@
     if (self) {
         
         self.backgroundColor = [UIColor redColor];
+//        相册
         
         
     }
